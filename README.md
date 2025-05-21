@@ -11,7 +11,7 @@ Asegúrate de tener instalado lo siguiente en tu entorno de desarrollo:
 * **PHP:** Versión 8.1 o superior
 * **Composer:** Gestor de dependencias de PHP
 * **Node.js y npm (o Yarn):** Para compilar los assets de frontend con Tailwind CSS
-* **Base de Datos:** MySQL, PostgreSQL, SQLite, etc. (MySQL es comúnmente usado con Laravel)
+* **Base de Datos:** MySQL
 
 ---
 
@@ -24,7 +24,7 @@ Puedes configurar el proyecto clonando el repositorio o usando un archivo `.rar`
 1.  **Clona el repositorio:**
 
     ```bash
-    git clone [[https://github.com/sosaheri/test_crazy.git](https://github.com/sosaheri/test_crazy.git)]
+    git clone https://github.com/sosaheri/test_crazy.git
     cd [test_crazy]
     ```
 
