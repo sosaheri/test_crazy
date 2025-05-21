@@ -24,8 +24,8 @@ Puedes configurar el proyecto clonando el repositorio o usando un archivo `.rar`
 1.  **Clona el repositorio:**
 
     ```bash
-    git clone [URL_DE_TU_REPOSITORIO]
-    cd [nombre-del-proyecto]
+    git clone [[https://github.com/sosaheri/test_crazy.git](https://github.com/sosaheri/test_crazy.git)]
+    cd [test_crazy]
     ```
 
 ### Opción 2: Usar un Archivo .rar Compartido
